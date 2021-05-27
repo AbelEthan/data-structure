@@ -1,4 +1,4 @@
-package icu.minxin.hashmap;
+package icu.minxin;
 
 import java.util.HashMap;
 import java.util.Map;

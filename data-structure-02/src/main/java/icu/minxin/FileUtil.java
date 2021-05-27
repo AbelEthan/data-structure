@@ -1,4 +1,4 @@
-package icu.minxin.hashmap;
+package icu.minxin;
 
 import java.io.BufferedReader;
 import java.io.IOException;

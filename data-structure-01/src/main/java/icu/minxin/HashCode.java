@@ -1,4 +1,4 @@
-package icu.minxin.hashcode;
+package icu.minxin;
 
 import java.util.*;
 
