@@ -10,6 +10,13 @@ import java.util.*;
  * @Description
  */
 public class HashCode {
+    /**
+     * 计算hashcode
+     *
+     * @param str
+     * @param multiplier
+     * @return
+     */
     public static Integer hashCode(String str, Integer multiplier) {
         int hash = 0;
         int length = str.length();
