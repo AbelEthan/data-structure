@@ -22,7 +22,7 @@ public class Disturb {
     }
 
     /**
-     * 费扰动函数下，下标值计算
+     * 非扰动函数下，下标值计算
      *
      * @param key
      * @param size
